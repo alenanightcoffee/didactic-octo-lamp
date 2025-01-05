@@ -1,0 +1,49 @@
+{
+  "build": "h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\zlib-ng-2.0.7-h2bbff1b_0",
+  "files": [
+    "Library/bin/zlib-ng2.dll",
+    "Library/include/zconf-ng.h",
+    "Library/include/zlib-ng.h",
+    "Library/lib/pkgconfig/zlib-ng.pc",
+    "Library/lib/zlib-ng.lib",
+    ".nonadmin"
+  ],
+  "fn": "zlib-ng-2.0.7-h2bbff1b_0.conda",
+  "license": "Zlib",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\zlib-ng-2.0.7-h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "7ec066dbd12a6a9050eb0d00b4c2c931",
+  "name": "zlib-ng",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\zlib-ng-2.0.7-h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/zlib-ng.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_0c7ebhbhh1/croot/zlib-ng_1680707800217/_h_env",
+        "sha256": "f91369502aad8a34dec44d1817192107bb4ff82991fea2a634b7766982b0a0f2",
+        "sha256_in_prefix": "088cf764a37b3af7eabbbe7a2c977a39bd6877c85a98c283cfa0fe7e25a84f5f",
+        "size_in_bytes": 332
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::zlib-ng==2.0.7=h2bbff1b_0[md5=7ec066dbd12a6a9050eb0d00b4c2c931]",
+  "sha256": "6898586a35e660a730aea2d3b2b9c5ce8d1ff580ace2567d851a3d12175de9c2",
+  "size": 97689,
+  "subdir": "win-64",
+  "timestamp": 1680707919000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/zlib-ng-2.0.7-h2bbff1b_0.conda",
+  "version": "2.0.7"
+}
